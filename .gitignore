@@ -1,0 +1,5 @@
+my_shiny_app_sunday
+.jupyter
+.ipynb_checkpoints
+__pycache__
+logs.log
